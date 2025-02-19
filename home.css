@@ -71,7 +71,8 @@ header nav ul li a {
 }
 
 .hero .btn:hover {
-    background-color: #ed2a2a;
+    background-color: #d51321;
+    color: white;
 }
 
 /* Popular Posts Section */
