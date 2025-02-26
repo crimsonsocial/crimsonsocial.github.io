@@ -1,7 +1,7 @@
-# crimsonsocial.github.io
+# crimsonsocial.github.io and Crimson Credit Union Project
 
 ## DISCLAIMER:
-Crimson Social and Crimson Credit Union are educational websites for developing healthy cyber security practices, **not a real financial institution**! None of the people who are mentioned in this site are real. Any resemblance to the real world or real people is coincidental and not intentional by the creators of this site.
+Crimson Social and Crimson Credit Union are educational websites for developing healthy cyber security practices, **not a real financial institution or social media**! None of the people who are mentioned in this site are real. Any resemblance to the real world or real people is coincidental and not intentional by the creators of this site.
 
 Please bank responsibly.
 
@@ -13,7 +13,7 @@ Crimson Credit Union was created to teach emerging cyber security students about
 ## AI Use Note:
 The textual and image contents of this website were largely created with generative AI. All images except for the company logo, banner, and favicon were created with Canva's AI and thisisnotarealperson.com. 
 
-This website was created to serve an educational purpose for cyber security exercises and is by no means meant to appear real. The use of AI art is deliberate to dissuade real people from assuming Crimson Credit Union is an actual credit union. Thus, photos of real people would be inappropriate for use in a project such as this. This project is not for profit and does not generate any revenue.
+This website was created to serve an educational purpose for cyber security exercises and is by no means meant to appear real. The use of AI photo art is deliberate to dissuade people from assuming Crimson Credit Union and Crimson Social are actual entities. Thus, photos of real people would be inappropriate for use in a project such as this. This project is educational, not for profit, and does not generate any revenue.
 
 ---
 
